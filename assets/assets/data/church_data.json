@@ -1,0 +1,610 @@
+{
+    "radiate": {
+        "day": 1,
+        "name": "Radiate Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/radiate_logo.jpg",
+        "image": "radiate_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/radiatechurch",
+            "instagram": "https://www.instagram.com/radiatechurch/",
+            "website": "https://www.radiatechurch.net",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://youtube.com/radiatechurch"
+        }
+    },
+    "christianlifecenter": {
+        "day": 1,
+        "name": "Christian Life Center",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/clc_logo.jpg",
+        "image": "clc_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://facebook.com/clcolumbia",
+            "instagram": "https://www.instagram.com/christianlifechurchsc",
+            "website": "https://www.clcolumbia.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/c/ChristianLifeColumbia"
+        }
+    },
+    "icon": {
+        "day": 1,
+        "name": "ICON Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/icon_icon.png",
+        "image": "icon_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/iconchurchcc",
+            "instagram": "http://instragram.com/iconchurchcc",
+            "website": "https://www.icon.church",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "http://twitter.com/iconchurchcc",
+            "youtube": ""
+        }
+    },
+    "ciu": {
+        "day": 1,
+        "name": "Columbia International University",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/ciu_logo.png",
+        "image": "ciu_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/columbiainternationaluniversity",
+            "instagram": "https://www.instagram.com/columbiaintluniversity",
+            "website": "https://www.ciu.edu",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/DiscoverCIU",
+            "youtube": "https://www.youtube.com/columbiainternationaluniversity"
+        }
+    },
+    "northstar": {
+        "day": 2,
+        "name": "NorthStar Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/northstar_logo.jpg",
+        "image": "northstar_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/northstarcolumbia",
+            "instagram": "",
+            "website": "https://www.northstarcolumbia.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "livingfaithchristiancenter": {
+        "day": 3,
+        "name": "Living Faith Christian Center",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/lfcc_logo.png",
+        "image": "lfcc_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/LivingFaithSC/",
+            "instagram": "",
+            "website": "https://www.livingfaithsc.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "themeetingplace": {
+        "day": 4,
+        "name": "The Meeting Place",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/meeting_place_logo.jpg",
+        "image": "meeting_place_image.JPG",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/goTMPC",
+            "instagram": "",
+            "website": "https://www.themeetingplacechurch.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/c/TheMeetingPlaceChurchofGreaterColumbia"
+        }
+    },
+    "brookcity": {
+        "day": 5,
+        "name": "Brook City Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/the_brook_logo.jpg",
+        "image": "the_brook_image.jpeg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/wearethebrook",
+            "instagram": "https://www.instagram.com/wearethebrook",
+            "website": "https://wearethebrook.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/wearethebrook",
+            "youtube": "https://www.youtube.com/user/brookcolumbia"
+        }
+    },
+    "calvarychapelirmo": {
+        "day": 6,
+        "name": "Calvary Chapel Irmo",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/calvary_chapel_logo.jpg",
+        "image": "calvary_chapel_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/ccirmo",
+            "instagram": "",
+            "website": "https://www.ccirmo.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "http://www.twitter.com/ccirmo",
+            "youtube": ""
+        }
+    },
+    "decidedchurch": {
+        "day": 6,
+        "name": "Decided Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/decided_church_logo.jpg",
+        "image": "decided_church_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/decidedchurch",
+            "instagram": "https://www.instagram.com/DecidedChurch/",
+            "website": "https://www.decidedchurch.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/c/DecidedChurch"
+        }
+    },
+    "newspring": {
+        "day": 7,
+        "name": "New Spring Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/newspring_logo.png",
+        "image": "newspring_church_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/newspring",
+            "instagram": "https://www.instagram.com/newspring_church",
+            "website": "https://newspring.cc",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/newspring",
+            "youtube": "https://www.youtube.com/user/NewSpringChurch"
+        }
+    },
+    "newheights": {
+        "day": 8,
+        "name": "New Heights Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/new_heights_logo.jpg",
+        "image": "new_heights_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/newheightscolumbia",
+            "instagram": "",
+            "website": "https://newheights.us",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/channel/UCfBcXMBCnW8DVXsVfQW70hw"
+        }
+    },
+    "forwardcity": {
+        "day": 9,
+        "name": "Forward City Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/forward_city_logo.png",
+        "image": "foward_city_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/4wardcity/",
+            "instagram": "https://www.instagram.com/4wardcity/",
+            "website": "https://forwardcitychurch.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/4wardcity",
+            "youtube": "https://www.youtube.com/channel/UCv9bXsvJJg9ixc-YRu31FxQ"
+        }
+    },
+    "revivesc": {
+        "day": 9,
+        "name": "Revive SC",
+        "logo": "",
+        "image": "",
+        "duration": 30,
+        "socials": {
+            "facebook": "",
+            "instagram": "",
+            "website": "",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "awakenchurch": {
+        "day": 10,
+        "name": "Awaken Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/awaken_logo.png",
+        "image": "awaken_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/awakencolumbia",
+            "instagram": "https://www.instagram.com/awakencolumbia/",
+            "website": "https://www.awakencolumbia.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/user/AwakenColumbia"
+        }
+    },
+    "reconciliationministries": {
+        "day": 11,
+        "name": "Reconciliation Ministries",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/reconciliation_ministries_logo.jpg",
+        "image": "reconciliation_ministries_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/reconciliationmin/",
+            "instagram": "",
+            "website": "https://www.reconciliation-min.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "stjohnbaptistchurch": {
+        "day": 12,
+        "name": "St. John Baptist Church",
+        "logo": "",
+        "image": "",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/saintjohnbaptistchurch1900/",
+            "instagram": "",
+            "website": "https://saintjohnbaptistchurch1900.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/@saintjohnbapchurch"
+        }
+    },
+    "calvarychapel": {
+        "day": 13,
+        "name": "Calvary Chapel Northeast Columbia",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/calavary_chapel_ne_logo.jpg",
+        "image": "calvary_chapel_ne_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/calvarychapelnortheast/",
+            "instagram": "https://www.instagram.com/calvarychapelnortheast/",
+            "website": "https://www.ccnortheast.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/Calvary_NE",
+            "youtube": "https://www.youtube.com/channel/UCiNk1iuG6unnlLlEI95YrjQ"
+        }
+    },
+    "harvest": {
+        "day": 14,
+        "name": "Harvest (La Cosecha) Spanish",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/cosecha_logo.jpg",
+        "image": "cosecha_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/LaCosechaLexington/",
+            "instagram": "",
+            "website": "https://the-harvest.org/la-cosecha",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "gracelife": {
+        "day": 15,
+        "name": "GraceLife Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/grace_life_logo.jpg",
+        "image": "grace_life_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/gracelifecolumbia",
+            "instagram": "https://www.instagram.com/gracelife.church/",
+            "website": "https://www.gracelife.church",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/channel/UCYxSjhsD6y2CPbuy13GQQcQ/"
+        }
+    },
+    "northpoint": {
+        "day": 16,
+        "name": "North Point Community Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/north_point_logo.png",
+        "image": "north_point_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/northpointcolumbia/",
+            "instagram": "https://www.instagram.com/northpointcommunitycolumbia/",
+            "website": "https://www.northpointcolumbia.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "theedge": {
+        "day": 17,
+        "name": "The Edge Community Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/edge_church_logo.png",
+        "image": "edge_church_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://facebook.com/",
+            "instagram": "",
+            "website": "https://theedgechurch.net",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "riverspring": {
+        "day": 17,
+        "name": "River Spring Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/RSC_logo.png",
+        "image": "RSC_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/riverspringschurch",
+            "instagram": "https://www.instagram.com/riverspringschurch",
+            "website": "https://www.riversprings.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "firstbaptist": {
+        "day": 18,
+        "name": "First Baptist Columbia",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/fbc_logo.jpg",
+        "image": "fbc_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/FirstBaptistColumbiaSC",
+            "instagram": "https://www.instagram.com/firstbaptistcolumbia/?hl=en",
+            "website": "http://fbccola.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/FBCColumbiaSC",
+            "youtube": "https://www.youtube.com/c/FirstBaptistChurchColumbia"
+        }
+    },
+    "4runners4christ": {
+        "day": 18,
+        "name": "4Runners4Christ",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/4runners_logo.jpeg",
+        "image": "4runners_image.jpeg",
+        "duration": 30,
+        "socials": {
+            "facebook": "",
+            "instagram": "",
+            "website": "https://4runners4christ.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "godschurchofdeliverance": {
+        "day": 19,
+        "name": "God's Church of Deliverance",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/church_of_deliverance_logo.jpg",
+        "image": "church_of_deliverance_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/GCODchurch/",
+            "instagram": "",
+            "website": "http://www.gcod1.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "sandhills": {
+        "day": 20,
+        "name": "Sandhills Community Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/sandhills_logo.png",
+        "image": "sandhills_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/SandhillsCommunity",
+            "instagram": "https://www.instagram.com/sandhillschurch/?hl=en",
+            "website": "https://www.sandhillschurch.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "threerivers": {
+        "day": 21,
+        "name": "Three Rivers Baptist Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/three_rivers_logo.png",
+        "image": "three_rivers_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/3rbcirmo/",
+            "instagram": "https://instagram.com/3rbcirmo",
+            "website": "https://www.3rbc.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/channel/UCTks_dHIjSZzN4FpAG9dfqg/videos"
+        }
+    },
+    "northwood": {
+        "day": 22,
+        "name": "Northwood Baptist Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/northwood_logo.jpg",
+        "image": "northwood_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/Northwood-Baptist-Church-116748965017069/",
+            "instagram": "",
+            "website": "https://www.northwoodlexington.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "riverlandhills": {
+        "day": 23,
+        "name": "Riverland Hills Baptist Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/riverland_hillls_logo.png",
+        "image": "riverland_hills_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/RiverlandHills",
+            "instagram": "https://www.instagram.com/riverlandhills/",
+            "website": "https://riverlandhills.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "theharvest": {
+        "day": 24,
+        "name": "The Harvest",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/harvest_logo.jpg",
+        "image": "harvest_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/Harvest378",
+            "instagram": "https://www.instagram.com/harvestchurch/",
+            "website": "https://the-harvest.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": "https://www.youtube.com/theharvestchurch"
+        }
+    },
+    "12springs": {
+        "day": 25,
+        "name": "12 Springs Community Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/12_springs_logo.png",
+        "image": "12_springs_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/12SpringsCC/",
+            "instagram": "https://www.instagram.com/12springscc/",
+            "website": "https://www.12springscc.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "rivercrest": {
+        "day": 26,
+        "name": "Rivercrest Presbyterian Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/rivercrest_logo.jpg",
+        "image": "rivercrest_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/rivercrestpca",
+            "instagram": "http://instagram.com/rivercrestpca",
+            "website": "https://www.rivercrestpca.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "http://twitter.com/rivercrestpca",
+            "youtube": ""
+        }
+    },
+    "crossroads": {
+        "day": 27,
+        "name": "Crossroads Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/crossroads_logo.jpg",
+        "image": "crossroads_church.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/columbiacrossroads/",
+            "instagram": "https://instagram.com/crossroadschurchsc",
+            "website": "https://crossroadschur.ch",
+            "tiktok": "",
+            "spotify": "https://open.spotify.com/user/cpwc8qo1a028hlnxdqstksvp9",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "eastlake": {
+        "day": 28,
+        "name": "East Lake Community Church",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/east_lake_logo.png",
+        "image": "east_lake_image.png",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/ELCCirmo",
+            "instagram": "https://www.instagram.com/eastlakeonline/",
+            "website": "https://www.eastlakeonline.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "stevensplawn": {
+        "day": 29,
+        "name": "Steven Splawn",
+        "logo": "",
+        "image": "",
+        "duration": 30,
+        "socials": {
+            "facebook": "",
+            "instagram": "",
+            "website": "",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    },
+    "northtrenholm": {
+        "day": 30,
+        "name": "North Trenholm Baptist Church",
+        "logo": "https://praycola.org/north_trenholm_logo/",
+        "image": "north_trenholm_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/northtrenholm",
+            "instagram": "https://www.instagram.com/northtrenholm",
+            "website": "https://northtrenholm.org",
+            "tiktok": "",
+            "spotify": "https://open.spotify.com/playlist/1fNmTkHMPArL7haL7GOtK2?si=adb9a12b1bf14521",
+            "twitter": "http://www.twitter.com/northtrenholm",
+            "youtube": "https://www.youtube.com/@northtrenholmbaptistchurch635/featured"
+        }
+    },
+    "lakemurray": {
+        "day": 31,
+        "name": "Lake Murray Evangelical",
+        "logo": "http://praycola.org/wp-content/uploads/2022/12/lake_murray_logo.jpg",
+        "image": "lake_murray_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/lakemurraychurch",
+            "instagram": "",
+            "website": "http://www.lakemurraychurch.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "",
+            "youtube": ""
+        }
+    }
+}
