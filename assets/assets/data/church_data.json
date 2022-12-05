@@ -2,7 +2,7 @@
     "radiate": {
         "day": 1,
         "name": "Radiate Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/radiate_logo.jpg",
+        "logo": "radiate_logo.jpg",
         "image": "radiate_image.jpg",
         "duration": 30,
         "socials": {
@@ -18,7 +18,7 @@
     "christianlifecenter": {
         "day": 1,
         "name": "Christian Life Center",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/clc_logo.jpg",
+        "logo": "clc_logo.jpg",
         "image": "clc_image.jpg",
         "duration": 30,
         "socials": {
@@ -34,7 +34,7 @@
     "icon": {
         "day": 1,
         "name": "ICON Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/icon_icon.png",
+        "logo": "icon_icon.png",
         "image": "icon_image.png",
         "duration": 30,
         "socials": {
@@ -50,7 +50,7 @@
     "ciu": {
         "day": 1,
         "name": "Columbia International University",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/ciu_logo.png",
+        "logo": "ciu_logo.png",
         "image": "ciu_image.jpg",
         "duration": 30,
         "socials": {
@@ -66,7 +66,7 @@
     "northstar": {
         "day": 2,
         "name": "NorthStar Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/northstar_logo.jpg",
+        "logo": "northstar_logo.jpg",
         "image": "northstar_image.jpg",
         "duration": 30,
         "socials": {
@@ -82,7 +82,7 @@
     "livingfaithchristiancenter": {
         "day": 3,
         "name": "Living Faith Christian Center",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/lfcc_logo.png",
+        "logo": "lfcc_logo.png",
         "image": "lfcc_image.png",
         "duration": 30,
         "socials": {
@@ -98,7 +98,7 @@
     "themeetingplace": {
         "day": 4,
         "name": "The Meeting Place",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/meeting_place_logo.jpg",
+        "logo": "meeting_place_logo.jpg",
         "image": "meeting_place_image.JPG",
         "duration": 30,
         "socials": {
@@ -114,7 +114,7 @@
     "brookcity": {
         "day": 5,
         "name": "Brook City Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/the_brook_logo.jpg",
+        "logo": "the_brook_logo.jpg",
         "image": "the_brook_image.jpeg",
         "duration": 30,
         "socials": {
@@ -130,7 +130,7 @@
     "calvarychapelirmo": {
         "day": 6,
         "name": "Calvary Chapel Irmo",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/calvary_chapel_logo.jpg",
+        "logo": "calvary_chapel_logo.jpg",
         "image": "calvary_chapel_image.jpg",
         "duration": 30,
         "socials": {
@@ -146,7 +146,7 @@
     "decidedchurch": {
         "day": 6,
         "name": "Decided Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/decided_church_logo.jpg",
+        "logo": "decided_church_logo.jpg",
         "image": "decided_church_image.jpg",
         "duration": 30,
         "socials": {
@@ -162,7 +162,7 @@
     "newspring": {
         "day": 7,
         "name": "New Spring Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/newspring_logo.png",
+        "logo": "newspring_logo.png",
         "image": "newspring_church_image.jpg",
         "duration": 30,
         "socials": {
@@ -178,7 +178,7 @@
     "newheights": {
         "day": 8,
         "name": "New Heights Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/new_heights_logo.jpg",
+        "logo": "new_heights_logo.jpg",
         "image": "new_heights_image.jpg",
         "duration": 30,
         "socials": {
@@ -194,7 +194,7 @@
     "forwardcity": {
         "day": 9,
         "name": "Forward City Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/forward_city_logo.png",
+        "logo": "forward_city_logo.png",
         "image": "foward_city_image.jpg",
         "duration": 30,
         "socials": {
@@ -226,7 +226,7 @@
     "awakenchurch": {
         "day": 10,
         "name": "Awaken Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/awaken_logo.png",
+        "logo": "awaken_logo.png",
         "image": "awaken_image.jpg",
         "duration": 30,
         "socials": {
@@ -242,7 +242,7 @@
     "reconciliationministries": {
         "day": 11,
         "name": "Reconciliation Ministries",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/reconciliation_ministries_logo.jpg",
+        "logo": "reconciliation_ministries_logo.jpg",
         "image": "reconciliation_ministries_image.jpg",
         "duration": 30,
         "socials": {
@@ -274,7 +274,7 @@
     "calvarychapel": {
         "day": 13,
         "name": "Calvary Chapel Northeast Columbia",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/calavary_chapel_ne_logo.jpg",
+        "logo": "calavary_chapel_ne_logo.jpg",
         "image": "calvary_chapel_ne_image.jpg",
         "duration": 30,
         "socials": {
@@ -290,7 +290,7 @@
     "harvest": {
         "day": 14,
         "name": "Harvest (La Cosecha) Spanish",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/cosecha_logo.jpg",
+        "logo": "cosecha_logo.jpg",
         "image": "cosecha_image.jpg",
         "duration": 30,
         "socials": {
@@ -306,7 +306,7 @@
     "gracelife": {
         "day": 15,
         "name": "GraceLife Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/grace_life_logo.jpg",
+        "logo": "grace_life_logo.jpg",
         "image": "grace_life_image.jpg",
         "duration": 30,
         "socials": {
@@ -322,7 +322,7 @@
     "northpoint": {
         "day": 16,
         "name": "North Point Community Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/north_point_logo.png",
+        "logo": "north_point_logo.png",
         "image": "north_point_image.png",
         "duration": 30,
         "socials": {
@@ -338,7 +338,7 @@
     "theedge": {
         "day": 17,
         "name": "The Edge Community Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/edge_church_logo.png",
+        "logo": "edge_church_logo.png",
         "image": "edge_church_image.png",
         "duration": 30,
         "socials": {
@@ -354,7 +354,7 @@
     "riverspring": {
         "day": 17,
         "name": "River Spring Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/RSC_logo.png",
+        "logo": "RSC_logo.png",
         "image": "RSC_image.png",
         "duration": 30,
         "socials": {
@@ -370,7 +370,7 @@
     "firstbaptist": {
         "day": 18,
         "name": "First Baptist Columbia",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/fbc_logo.jpg",
+        "logo": "fbc_logo.jpg",
         "image": "fbc_image.jpg",
         "duration": 30,
         "socials": {
@@ -386,7 +386,7 @@
     "4runners4christ": {
         "day": 18,
         "name": "4Runners4Christ",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/4runners_logo.jpeg",
+        "logo": "4runners_logo.jpeg",
         "image": "4runners_image.jpeg",
         "duration": 30,
         "socials": {
@@ -402,7 +402,7 @@
     "godschurchofdeliverance": {
         "day": 19,
         "name": "God's Church of Deliverance",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/church_of_deliverance_logo.jpg",
+        "logo": "church_of_deliverance_logo.jpg",
         "image": "church_of_deliverance_image.jpg",
         "duration": 30,
         "socials": {
@@ -418,7 +418,7 @@
     "sandhills": {
         "day": 20,
         "name": "Sandhills Community Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/sandhills_logo.png",
+        "logo": "sandhills_logo.png",
         "image": "sandhills_image.jpg",
         "duration": 30,
         "socials": {
@@ -434,7 +434,7 @@
     "threerivers": {
         "day": 21,
         "name": "Three Rivers Baptist Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/three_rivers_logo.png",
+        "logo": "three_rivers_logo.png",
         "image": "three_rivers_image.png",
         "duration": 30,
         "socials": {
@@ -450,7 +450,7 @@
     "northwood": {
         "day": 22,
         "name": "Northwood Baptist Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/northwood_logo.jpg",
+        "logo": "northwood_logo.jpg",
         "image": "northwood_image.jpg",
         "duration": 30,
         "socials": {
@@ -466,7 +466,7 @@
     "riverlandhills": {
         "day": 23,
         "name": "Riverland Hills Baptist Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/riverland_hillls_logo.png",
+        "logo": "riverland_hillls_logo.png",
         "image": "riverland_hills_image.jpg",
         "duration": 30,
         "socials": {
@@ -482,7 +482,7 @@
     "theharvest": {
         "day": 24,
         "name": "The Harvest",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/harvest_logo.jpg",
+        "logo": "harvest_logo.jpg",
         "image": "harvest_image.jpg",
         "duration": 30,
         "socials": {
@@ -498,7 +498,7 @@
     "12springs": {
         "day": 25,
         "name": "12 Springs Community Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/12_springs_logo.png",
+        "logo": "12_springs_logo.png",
         "image": "12_springs_image.jpg",
         "duration": 30,
         "socials": {
@@ -514,7 +514,7 @@
     "rivercrest": {
         "day": 26,
         "name": "Rivercrest Presbyterian Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/rivercrest_logo.jpg",
+        "logo": "rivercrest_logo.jpg",
         "image": "rivercrest_image.jpg",
         "duration": 30,
         "socials": {
@@ -530,7 +530,7 @@
     "crossroads": {
         "day": 27,
         "name": "Crossroads Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/crossroads_logo.jpg",
+        "logo": "crossroads_logo.jpg",
         "image": "crossroads_church.jpg",
         "duration": 30,
         "socials": {
@@ -546,7 +546,7 @@
     "eastlake": {
         "day": 28,
         "name": "East Lake Community Church",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/east_lake_logo.png",
+        "logo": "east_lake_logo.png",
         "image": "east_lake_image.png",
         "duration": 30,
         "socials": {
@@ -578,7 +578,7 @@
     "northtrenholm": {
         "day": 30,
         "name": "North Trenholm Baptist Church",
-        "logo": "https://praycola.org/north_trenholm_logo/",
+        "logo": "north_trenholm_logo.png",
         "image": "north_trenholm_image.jpg",
         "duration": 30,
         "socials": {
@@ -594,7 +594,7 @@
     "lakemurray": {
         "day": 31,
         "name": "Lake Murray Evangelical",
-        "logo": "http://praycola.org/wp-content/uploads/2022/12/lake_murray_logo.jpg",
+        "logo": "lake_murray_logo.jpg",
         "image": "lake_murray_image.jpg",
         "duration": 30,
         "socials": {
