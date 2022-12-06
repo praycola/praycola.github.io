@@ -559,16 +559,16 @@
             "youtube": ""
         }
     },
-    "stevensplawn": {
+    "firstnortheastbaptist": {
         "day": 29,
-        "name": "Steven Splawn",
-        "logo": "",
-        "image": "",
+        "name": "First Northeast Baptist Church",
+        "logo": "fnebc_logo.jpg",
+        "image": "fnebc_image.jpg",
         "duration": 30,
         "socials": {
-            "facebook": "",
-            "instagram": "",
-            "website": "",
+            "facebook": "https://www.facebook.com/firstnortheastbaptistchurch",
+            "instagram": "https://www.instagram.com/firstnortheastbaptist/",
+            "website": "https://www.fnebc.org",
             "tiktok": "",
             "spotify": "",
             "twitter": "",
