@@ -591,6 +591,22 @@
             "youtube": "https://www.youtube.com/@northtrenholmbaptistchurch635/featured"
         }
     },
+    "shandonbaptist": {
+        "day": 30,
+        "name": "Shandon Baptist Church",
+        "logo": "shandon_logo.jpg",
+        "image": "shandon_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/shandonbaptist",
+            "instagram": "https://www.instagram.com/shandonbaptist",
+            "website": "https://shandon.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/ShandonBaptist",
+            "youtube": "https://www.youtube.com/user/ShandonBaptistChurch"
+        }
+    },
     "lakemurray": {
         "day": 31,
         "name": "Lake Murray Evangelical",
