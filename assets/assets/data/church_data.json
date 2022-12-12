@@ -303,6 +303,38 @@
             "youtube": ""
         }
     },
+    "grace": {
+        "day": 14,
+        "name": "GraceChurch of Columbia",
+        "logo": "grace_church_logo.jpg",
+        "image": "grace_church_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/gracechurchofcolumbia/",
+            "instagram": "https://www.instagram.com/gracechurchofcolumbia/",
+            "website": "https://gracechurchcolumbia.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/grace_columbia",
+            "youtube": ""
+        }
+    },
+    "dailyliving": {
+        "day": 14,
+        "name": "Daily Living Ministries",
+        "logo": "dailyliving_logo.png",
+        "image": "dailyliving_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/dlmfellowship",
+            "instagram": "http://instagram.com/dlmfellowship",
+            "website": "https://www.dailylivingministries.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/DLMFellowship",
+            "youtube": "https://www.youtube.com/dailylivingministries"
+        }
+    },
     "gracelife": {
         "day": 15,
         "name": "GraceLife Church",
@@ -621,6 +653,22 @@
             "spotify": "",
             "twitter": "",
             "youtube": ""
+        }
+    },
+    "fresh": {
+        "day": 31,
+        "name": "FRESH Church",
+        "logo": "fresh_logo.jpg",
+        "image": "fresh_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "http://www.facebook.com/freshchurchsc",
+            "instagram": "http://www.instagram.com/scfresh",
+            "website": "https://freshchurch.org",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "http://www.twitter.com/freshchurchsc",
+            "youtube": "https://www.youtube.com/channel/UC2Se4r4BXiOqAJAEJZSj2AA"
         }
     }
 }
