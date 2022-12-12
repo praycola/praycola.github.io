@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3759ee8099cd016e113bcfeee702b57a",
-"index.html": "6940ee44467ecf0985704ddae9f23745",
-"/": "6940ee44467ecf0985704ddae9f23745",
-"main.dart.js": "3103b22a0acf3dbe61326e3d4b796fd2",
+"index.html": "172ebd0a861f693e0eee396c48c73d48",
+"/": "172ebd0a861f693e0eee396c48c73d48",
+"main.dart.js": "bd879139dcc8d98409953ec474b9646c",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
