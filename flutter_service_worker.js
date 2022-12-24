@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3759ee8099cd016e113bcfeee702b57a",
-"index.html": "fccc159197a8d224ea789fb8eeb8478c",
-"/": "fccc159197a8d224ea789fb8eeb8478c",
-"main.dart.js": "9bcd5c6b21ff0319bffa4fa80e77bfca",
+"index.html": "cbaa87d3441820badcfb52e456c4966a",
+"/": "cbaa87d3441820badcfb52e456c4966a",
+"main.dart.js": "c25229c82f964995eb9b7aea9eebc0a7",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
@@ -108,7 +108,7 @@ const RESOURCES = {
 "assets/assets/socials/twitter.png": "f98c159d11e0c4fd47ecdbcd96e727ef",
 "assets/assets/socials/youtube.png": "63a3f51a4c641282e8211b12d703198b",
 "assets/assets/socials/instagram_logo.png": "86f33cfc1e9c3bc689abc0851fa2f7b5",
-"assets/assets/data/church_data.json": "c682154341dad670388f587e85658703",
+"assets/assets/data/church_data.json": "f944acd49642218105118019270d7bc1",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
