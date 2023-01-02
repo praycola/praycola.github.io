@@ -670,5 +670,21 @@
             "twitter": "http://www.twitter.com/freshchurchsc",
             "youtube": "https://www.youtube.com/channel/UC2Se4r4BXiOqAJAEJZSj2AA"
         }
+    },
+    "test": {
+        "day": 18,
+        "name": "Test Church",
+        "logo": "fbc_logo.jpg",
+        "image": "fbc_image.jpg",
+        "duration": 30,
+        "socials": {
+            "facebook": "https://www.facebook.com/FirstBaptistColumbiaSC",
+            "instagram": "https://www.instagram.com/firstbaptistcolumbia/?hl=en",
+            "website": "http://fbccola.com",
+            "tiktok": "",
+            "spotify": "",
+            "twitter": "https://twitter.com/FBCColumbiaSC",
+            "youtube": "https://www.youtube.com/c/FirstBaptistChurchColumbia"
+        }
     }
 }
