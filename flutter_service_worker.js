@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "70a586d904237ee5df93830171cb9d09",
-"index.html": "8d949c1342cff64d230965908d91ae20",
-"/": "8d949c1342cff64d230965908d91ae20",
+"index.html": "3fc599bfd1cebd9b50047412e6e6784b",
+"/": "3fc599bfd1cebd9b50047412e6e6784b",
 "main.dart.js": "fdb686362ae206029deae84aff57b24d",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -107,7 +108,11 @@ const RESOURCES = {
 "assets/assets/socials/twitter.png": "f98c159d11e0c4fd47ecdbcd96e727ef",
 "assets/assets/socials/youtube.png": "63a3f51a4c641282e8211b12d703198b",
 "assets/assets/socials/instagram_logo.png": "86f33cfc1e9c3bc689abc0851fa2f7b5",
-"assets/assets/data/church_data.json": "54eaa5c32582916a6342026beb7d150c"
+"assets/assets/data/church_data.json": "54eaa5c32582916a6342026beb7d150c",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
