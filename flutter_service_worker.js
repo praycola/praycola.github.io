@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "203e7ec04013a14220db8327f3bd97db",
-"index.html": "96bd557bcd1279387c31a450193f997a",
-"/": "96bd557bcd1279387c31a450193f997a",
-"main.dart.js": "154c51fa9760646ddfb040239c10afbb",
+  "version.json": "7ece8f23350854723633b5f1f2ebca70",
+"index.html": "366f8fb337568db5f4a49cc15ed61cd8",
+"/": "366f8fb337568db5f4a49cc15ed61cd8",
+"main.dart.js": "6f11c684e3f9ffade72892e5c6399f00",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "style.css": "9b4a09d3cf7ad7cf11460aad409d9ffc",
 "manifest.json": "131fe5cbb8863d7b311cd0d6d70db820",
 "assets/AssetManifest.json": "79082f3b35e8c68727972efa4fb71a18",
-"assets/NOTICES": "fe9a2547ad6a33df6b9fd7826d16d195",
+"assets/NOTICES": "76f1ad681eb446f96bad0a5769bdea1e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "f1eb995156e9cf90748cbdb86abcccb6",
