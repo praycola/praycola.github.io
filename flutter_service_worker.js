@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "33c41dd65c3cf0213f16f3f481f7737a",
-"index.html": "51aef4f87b63ad79cf26bf2be1e4d4ed",
-"/": "51aef4f87b63ad79cf26bf2be1e4d4ed",
-"main.dart.js": "8bcfd9c1eb38fd83c0b205c4229f0e16",
+  "version.json": "6209fae27b4fdaef693306e7dd4cac0f",
+"index.html": "233685c8da2d808e8541de3bcf811dcb",
+"/": "233685c8da2d808e8541de3bcf811dcb",
+"main.dart.js": "aee51eb3978bb99f8135f03c2ad9b195",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
