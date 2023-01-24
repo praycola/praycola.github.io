@@ -3,11 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "6209fae27b4fdaef693306e7dd4cac0f",
-"index.html": "233685c8da2d808e8541de3bcf811dcb",
-"/": "233685c8da2d808e8541de3bcf811dcb",
+  "version.json": "fd92509103cc2c5e680fc36b0e8c3b3a",
+"index.html": "34e926c15508fc226998a144979c2caa",
+"/": "34e926c15508fc226998a144979c2caa",
 "main.dart.js": "aee51eb3978bb99f8135f03c2ad9b195",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -16,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "style.css": "9b4a09d3cf7ad7cf11460aad409d9ffc",
 "manifest.json": "131fe5cbb8863d7b311cd0d6d70db820",
-"assets/AssetManifest.json": "2709767e4759265ebb11cb896ed88311",
+"assets/AssetManifest.json": "06c74b0fb3fe9deae310a562a17ad480",
 "assets/NOTICES": "76f1ad681eb446f96bad0a5769bdea1e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -49,6 +48,7 @@ const RESOURCES = {
 "assets/assets/images/clc_image.jpg": "9692f2c8694a4f747c25725299d39a14",
 "assets/assets/images/church_of_deliverance_image.jpg": "616d8bdc443f9a328df3d5387404374c",
 "assets/assets/images/calvary_chapel_image.jpg": "730355fdcbf2bd414a82d3e8fee3f51e",
+"assets/assets/images/cola_refuge_image.jpg": "76efea87c5dcbd40c72e7c8e0a65d11e",
 "assets/assets/images/12_springs_image.jpg": "82aeefd5536ca51da0e7550f3f3b5374",
 "assets/assets/images/edge_church_image.png": "f10c0b5446ae1cb90d520ca5d6e73fd0",
 "assets/assets/images/4runners_image.jpeg": "92553b6ada9207e0c9cd4c76ca0b7e2c",
@@ -69,6 +69,7 @@ const RESOURCES = {
 "assets/assets/logos/church_of_deliverance_logo.jpg": "616d8bdc443f9a328df3d5387404374c",
 "assets/assets/logos/northwood_logo.jpg": "8e5f68380107a77a979beb3c184946a4",
 "assets/assets/logos/the_brook_logo.jpg": "318e797e4f492c2673d3374aa726f30c",
+"assets/assets/logos/cola_refuge_logo.jpg": "76efea87c5dcbd40c72e7c8e0a65d11e",
 "assets/assets/logos/calvary_chapel_logo.jpg": "eb5d91a8c9e335ff421a35da514ee84f",
 "assets/assets/logos/RSC_logo.png": "cfa78781874a587baf2edb4780794e64",
 "assets/assets/logos/radiate_logo.jpg": "147c706c051509323bd213dc0e3a753c",
@@ -111,11 +112,7 @@ const RESOURCES = {
 "assets/assets/socials/twitter.png": "f98c159d11e0c4fd47ecdbcd96e727ef",
 "assets/assets/socials/youtube.png": "63a3f51a4c641282e8211b12d703198b",
 "assets/assets/socials/instagram_logo.png": "86f33cfc1e9c3bc689abc0851fa2f7b5",
-"assets/assets/data/church_data.json": "54eaa5c32582916a6342026beb7d150c",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/data/church_data.json": "54eaa5c32582916a6342026beb7d150c"
 };
 
 // The application shell files that are downloaded before a service worker can
