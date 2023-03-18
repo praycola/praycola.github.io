@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "c5e2789647358f76bdfff31528a7078a",
-"index.html": "7e6f5c030fb8f49f6ac7a68bbd283566",
-"/": "7e6f5c030fb8f49f6ac7a68bbd283566",
-"main.dart.js": "050d00192e4e9edac0d87f25830266fe",
+  "version.json": "d6388d4f61a5fa61d898fffd50b3483f",
+"index.html": "5e023a82b88fe26aa754e9f997600dc3",
+"/": "5e023a82b88fe26aa754e9f997600dc3",
+"main.dart.js": "56601ad2df6c244b339d834be074bf11",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -16,7 +17,7 @@ const RESOURCES = {
 "style.css": "9b4a09d3cf7ad7cf11460aad409d9ffc",
 "manifest.json": "131fe5cbb8863d7b311cd0d6d70db820",
 "assets/AssetManifest.json": "4462d642c6d9125f259d7a8e3fc74d62",
-"assets/NOTICES": "5b92eb8b3d18fb1b385dddf78ac5762d",
+"assets/NOTICES": "71c6ea6b4682f7be520b3bfb213271bf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "5cd818781852a1719b61fbe852fe007d",
@@ -118,7 +119,11 @@ const RESOURCES = {
 "assets/assets/socials/twitter.png": "f98c159d11e0c4fd47ecdbcd96e727ef",
 "assets/assets/socials/youtube.png": "63a3f51a4c641282e8211b12d703198b",
 "assets/assets/socials/instagram_logo.png": "86f33cfc1e9c3bc689abc0851fa2f7b5",
-"assets/assets/data/church_data.json": "54eaa5c32582916a6342026beb7d150c"
+"assets/assets/data/church_data.json": "54eaa5c32582916a6342026beb7d150c",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
