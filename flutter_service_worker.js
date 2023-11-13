@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "3d4b1e8188ab3ae5b3cc84741552fb2a",
-"index.html": "fabe84888216df53e9961988bcb7a549",
-"/": "fabe84888216df53e9961988bcb7a549",
-"main.dart.js": "87fd29b1eacb5b752134f3b8ff0b3b88",
+const RESOURCES = {"version.json": "ff3d57afcabebd416f735cc9a7e3ed67",
+"index.html": "fbea758036a975616c2771862eb09b9a",
+"/": "fbea758036a975616c2771862eb09b9a",
+"main.dart.js": "1953a60e9e5419dae1766fb8b9718a48",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "img/praycolalogo.png": "d9fd908fcfa4afe3abd7e1e3a79edccc",
 "favicon.png": "531cdbe7be0eb0dfaab4ef677f8fb606",
@@ -32,11 +32,11 @@ const RESOURCES = {"version.json": "3d4b1e8188ab3ae5b3cc84741552fb2a",
 "assets/assets/socials/youtube.png": "63a3f51a4c641282e8211b12d703198b",
 "assets/assets/socials/instagram_logo.png": "86f33cfc1e9c3bc689abc0851fa2f7b5",
 "canvaskit/skwasm.js": "95f16c6690f955a45b2317496983dbe9",
-"canvaskit/skwasm.wasm": "d1fde2560be92c0b07ad9cf9acb10d05",
+"canvaskit/skwasm.wasm": "1a074e8452fe5e0d02b112e22cdcf455",
 "canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee22aebb0",
-"canvaskit/chromium/canvaskit.wasm": "1165572f59d51e963a5bf9bdda61e39b",
+"canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
 "canvaskit/canvaskit.js": "bbf39143dfd758d8d847453b120c8ebb",
-"canvaskit/canvaskit.wasm": "19d8b35640d13140fe4e6f3b8d450f04",
+"canvaskit/canvaskit.wasm": "42df12e09ecc0d5a4a34a69d7ee44314",
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15"};
 // The application shell files that are downloaded before a service worker can
 // start.
