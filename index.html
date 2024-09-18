@@ -55,14 +55,79 @@
 
   <title>Pray With US</title>
   <link rel="manifest" href="manifest.json">
+
+  <link rel="preload" href="main.dart.js" as="script">
+  <link rel="preload" href="assets/socials/facebook_logo.png" as="image">
+  <link rel="preload" href="assets/socials/instagram_logo.png" as="image">
+  <link rel="preload" href="assets/socials/spotify_logo.png" as="image">
+  <link rel="preload" href="assets/socials/twitter_logo.png" as="image">
+  <link rel="preload" href="assets/socials/youtube_logo.png" as="image">
+
   <link rel="stylesheet" type="text/css" href="style.css">
+
+  <style>
+    .loading {
+      display: flex;
+      flex-flow: column;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    .loader {
+      border: 8px solid #f3f3f3;
+      border-radius: 50%;
+      border-top: 4px solid #121212;
+      border-right: 4px solid #FFFFFF;
+      border-bottom: 4px solid #121212;
+      border-left: 4px solid #121212;
+      width: 60px !important;
+      height: 60px !important;
+      -webkit-animation: spin 2s linear infinite;
+      animation: spin 2s linear infinite;
+    }
+
+    @-webkit-keyframes spin {
+      0% {
+        -webkit-transform: rotate(0deg);
+      }
+
+      100% {
+        -webkit-transform: rotate(360deg);
+      }
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
 </head>
 
 <body>
-  <div class="item">
-    <!-- <img src="img/praycolalogo.png" class="center" /> -->
-    <p class="underImageText">Loading...</p>
+  <!-- First time loading -->
+  <div class="loading">
+    <div class="loader"></div>
   </div>
+
+  <!-- Ensure first time loading progress is gone after app loads -->
+  <script>
+    window.addEventListener("flutter-first-frame", function () {
+      var element = document.getElementsByClassName("loading");
+      element[0].parentNode.removeChild(element[0]);
+    });
+  </script>
+
   <script src="flutter_bootstrap.js" async></script>
 </body>
 
