@@ -69,6 +69,8 @@
 
     <link rel="stylesheet" type="text/css" href="style.css" />
 
+    <meta http-equiv="expires" content="0">
+
     <style>
       .loading {
         display: flex;
@@ -116,9 +118,6 @@
         }
       }
     </style>
-    <script>
-      const serviceWorkerVersion = "1487134035";
-    </script>
 
     <script defer src="flutter.js"></script>
   </head>
@@ -137,25 +136,7 @@
       });
     </script>
 
-    
+    <script src="main.dart.js" type="application/javascript"></script>
 
-    <script>
-      window.addEventListener("load", function (ev) {
-        // Download main.dart.js
-        _flutter.loader
-          .loadEntrypoint({
-            entrypointUrl: "main.dart.js?v=" + serviceWorkerVersion,
-            serviceWorker: {
-              serviceWorkerVersion: serviceWorkerVersion,
-            },
-          })
-          .then(function (engineInitializer) {
-            return engineInitializer.initializeEngine();
-          })
-          .then(function (appRunner) {
-            return appRunner.runApp();
-          });
-      });
-    </script>
   </body>
 </html>
